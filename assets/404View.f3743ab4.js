@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{J as o,K as r}from"./index.ff394acc.js";const t={};function c(n,_){return o(),r("h1",null,"404 Page Not Found :(")}const f=e(t,[["render",c]]);export{f as default};

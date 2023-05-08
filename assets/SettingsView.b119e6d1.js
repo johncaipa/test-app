@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper.cdc0426e.js";import{J as t,K as n}from"./index.ff394acc.js";const r={};function c(o,s){return t(),n("h1",null,"Settings")}const f=e(r,[["render",c]]);export{f as default};
